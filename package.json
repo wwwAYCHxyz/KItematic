@@ -35,7 +35,7 @@
     "alt": "0.16.10",
     "ansi-to-html": "0.3.0",
     "any-promise": "0.1.0",
-    "async": "1.5.2",
+    "async": "2.6.4",
     "babel-polyfill": "^6.26.0",
     "bluebird": "3.5.1",
     "bugsnag-js": "2.5.0",
